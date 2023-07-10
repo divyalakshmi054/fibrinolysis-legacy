@@ -1,0 +1,3 @@
+p coefficients [0.01, 1.0]
+https://mogp-emulator.readthedocs.io/en/latest/methods/proc/ProcMorris.html
+http://www.andreasaltelli.eu/file/repository/A_Saltelli_Marco_Ratto_Terry_Andres_Francesca_Campolongo_Jessica_Cariboni_Debora_Gatelli_Michaela_Saisana_Stefano_Tarantola_Global_Sensitivity_Analysis_The_Primer_Wiley_Interscience_2008_.pdf

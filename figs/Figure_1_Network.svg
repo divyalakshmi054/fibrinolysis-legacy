@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="679pt" height="300pt" viewBox="0 0 679 300">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M441 231 447.6876 227.0967 454 231 447.5 220 441 231Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M237 105 230.3124 108.9033 224 105 230.5 116 237 105Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M230 46V108" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_10">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_11">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M510 170 513.9033 176.6876 510 183 521 176.5 510 170Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_12">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_13">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_14">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M306 170 309.9033 176.6876 306 183 317 176.5 306 170Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_15">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+<clipPath id="clip_16">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M0 0H699V332H0Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<g clip-path="url(#clip_1)">
+<text xml:space="preserve" transform="matrix(1 0 0 1 35 128)" font-size="18" font-family="Helvetica"><tspan y="18" x="0 10.9944 14.994 25.005602 30.999602 34.999204 45.010805 55.022409 65.03401 75.045619">Fibrinogen</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 320 130)" font-size="18" font-family="Helvetica"><tspan y="18" x="0 6.0120007 11.012401 22.006802 26.006402 36.018007 42.012006 46.011606 56.02321 61.02361">{ Fibrin }</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 533 122)" font-size="18" font-family="Helvetica"><tspan y="18" x="0 10.9944 14.994 25.005602 30.999602 34.999204 45.010805 50.011205 60.022806 70.03441 80.04601 86.040019 96.05162 106.063228 116.07483 121.075229 125.07483 135.08643 145.09803">Fibrin degradation </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 533 122)" font-size="18" font-family="Helvetica"><tspan y="40" x="0 10.011601 16.005602 26.017203 36.028806 46.040407 55.040407 60.040807 69.0408 74.0412 80.0352 91.0296 104.029209 116.0352 125.0352">products (FDPs)</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 389 -5)" font-size="18" font-family="Helvetica"><tspan y="18" x="0 12.0060009 16.0056 26.0172 35.0172 50.0112 54.010805 64.02241 74.03401 84.045619 94.05722">Plasminogen</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 409 109)" font-size="18" font-family="Helvetica"><tspan y="18" x="0 12.0060009 16.0056 26.0172 35.0172 50.0112 54.010805">Plasmin</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 154 150)" font-size="18" font-family="Helvetica"><tspan y="18" x="33.98047 45.98647 54.98647 59.98687 63.986474 72.98647 82.99808 87.998477 98.01008 108.02168">Activated </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 154 150)" font-size="18" font-family="Helvetica"><tspan y="40" x="8.98877 19.983172 29.994772 35.988775 46.000375 60.994379 71.00598 75.005588 85.01719 90.017589 96.01159 107.00599 112.006389 117.00678 127.01839">Thrombin (FIIa)</tspan></text>
+</g>
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M436 215H459V236H436Z"/>
+</g>
+</g>
+<g clip-path="url(#clip_4)">
+<path transform="matrix(1,0,0,1,435,87)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0 6.687609 3.903251 13 0 6.5 11 0 0Z"/>
+<path transform="matrix(1,0,0,1,441,28)" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M1 0V62"/>
+</g>
+<g clip-path="url(#clip_5)">
+<g clip-path="url(#clip_6)">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M219 100H242V121H219Z" fill="#9b9b9b"/>
+</g>
+</g>
+<g clip-path="url(#clip_7)">
+<path transform="matrix(-1,-0,0,-1,231,213)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#9b9b9b" d="M0 0 6.687609 3.903251 13 0 6.5 11 0 0Z"/>
+</g>
+<g clip-path="url(#clip_8)">
+<g clip-path="url(#clip_9)">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M225 41H235V113H225Z" fill="#9b9b9b"/>
+</g>
+</g>
+<g clip-path="url(#clip_10)">
+<path transform="matrix(-1,-0,0,-1,225,272)" stroke-width="2" stroke-linecap="square" stroke-dasharray="4,4" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#9b9b9b" d="M1 0V62"/>
+</g>
+<g clip-path="url(#clip_11)">
+<g clip-path="url(#clip_12)">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M505 165H526V188H505Z"/>
+</g>
+</g>
+<g clip-path="url(#clip_13)">
+<path transform="matrix(0,-1,1,0,504,148)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0 6.687609 3.903251 13 0 6.5 11 0 0Z"/>
+<path transform="matrix(0,-1,1,0,396.5,142.5)" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M1 0V111"/>
+</g>
+<g clip-path="url(#clip_14)">
+<g clip-path="url(#clip_15)">
+<path transform="matrix(1,0,0,-1,-6,318)" d="M301 165H322V188H301Z"/>
+</g>
+</g>
+<g clip-path="url(#clip_16)">
+<path transform="matrix(0,-1,1,0,300,148)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0 6.687609 3.903251 13 0 6.5 11 0 0Z"/>
+<path transform="matrix(0,-1,1,0,139,142)" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M1 0V164"/>
+<text xml:space="preserve" transform="matrix(1 0 0 1 259 29)" font-size="18" font-family="Helvetica"><tspan y="18" x="8.575195 18.910798 22.910397 31.910397 40.910398 50.921998 60.9336 65.934 75.9456 79.945209 89.95681 98.95681 113.95081 117.95042 127.96202 137.97362 147.98522 157.99681 168.0084">Tissue plasminogen </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 259 29)" font-size="18" font-family="Helvetica"><tspan y="40" x="55.29785 65.309459 74.309459 79.30985 83.309459 92.309459 102.32106 107.32146 117.33306 123.327068 128.32747 134.32147 139.32187 150.00127 162.00727">activator (tPA)</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 -27 29)" font-size="18" font-family="Helvetica"><tspan y="18" x="27.9082 32.9086 44.9146 48.9142 58.925806 67.925807 82.91981 86.91941 96.931018 106.94262 116.95422 126.96583 136.97743 141.97783 151.98943 160.98943 165.98983 169.98943 178.98943 189.00102 194.00142 204.01302 210.00702"> Plasminogen activator </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 -27 29)" font-size="18" font-family="Helvetica"><tspan y="40" x="70.28027 74.27988 84.29148 94.303089 98.30269 108.31429 112.313899 117.31429 127.3259 133.3199 139.3139 149.3255 154.3259 160.3199 170.9993 183.0053 188.00569 193.9997 204.01129">inhibitor-1 (PAI-1)</tspan></text>
+<path transform="matrix(1,0,0,1,191,49)" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d0021b" d="M0 1H64"/>
+<path transform="matrix(1,0,0,1,255,39)" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d0021b" d="M1.5 0V22.14159"/>
+<path transform="matrix(0,-1,1,0,440.5,198.5)" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d0021b" d="M0 1H42.5"/>
+<path transform="matrix(0,-1,1,0,430.5,155.5)" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#d0021b" d="M1.5 0V22.14159"/>
+<text xml:space="preserve" transform="matrix(1 0 0 1 308 202)" font-size="18" font-family="Helvetica"><tspan y="18" x="40.62109 45.30649 56.30089 66.31249 72.306499 82.3181 97.3121 107.32371 111.32331 121.334918 127.32892 137.34052 146.34052 151.34091 155.34052 164.34052 174.35211 179.35251 189.3641 199.3757 203.3753 213.3869"> Thrombin-activatable </tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 0 1 308 202)" font-size="18" font-family="Helvetica"><tspan y="40" x="23.64062 32.640619 42.65222 48.64622 52.64582 62.657426 72.66903 76.66863 85.66863 94.66863 98.668239 107.668239 112.66863 116.668239 126.67984 136.69144 140.69104 150.70264 154.70224 159.70264 169.71424 175.70824 180.70864 186.70264 196.37044 208.37644 219.37084 224.37123">&#xfb01;brinolysis inhibitor (TAFI)</tspan></text>
+<text fill="#99989a" xml:space="preserve" transform="matrix(1 0 0 1 144 278)" font-size="18" font-family="Helvetica"><tspan y="18" x="0 12.999601 23.011202 33.022806 43.03441 53.046014 57.045618 67.05722 72.05762 76.05722 86.068828 96.08043 101.080829 116.07483 126.08643 136.09804 146.10964">Coagulation model</tspan></text>
+</g>
+</g>
+</svg>
